@@ -3,8 +3,7 @@
 # toonhud
 ### By Griever
 
-> [!WARNING]
-> cl_hud_minmode 1 ONLY!
+cl_hud_minmode 1 ONLY!
 
 ## Changelog
 
